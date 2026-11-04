@@ -1,0 +1,24 @@
+[
+  {
+    "k": 5,
+    "n_products": 1268,
+    "n_queries_evaluated": 1249,
+    "precision_at_k": 0.5599679743795036,
+    "baseline_random": 0.11739273028525425,
+    "lift": 4.770039618457034,
+    "catalog_coverage": 0.9755520504731862,
+    "mean_rating_rec": 4.2949984212188195,
+    "mean_rating_catalog": 4.287316495659038
+  },
+  {
+    "k": 10,
+    "n_products": 1268,
+    "n_queries_evaluated": 1249,
+    "precision_at_k": 0.5493995196156926,
+    "baseline_random": 0.11739273028525425,
+    "lift": 4.680013134379777,
+    "catalog_coverage": 0.9952681388012619,
+    "mean_rating_rec": 4.2947256651140755,
+    "mean_rating_catalog": 4.287316495659038
+  }
+]

@@ -1,0 +1,17 @@
+# Kredensial: JANGAN pernah di-commit
+kaggle.json
+.streamlit/secrets.toml
+.env
+
+# Data mentah unduhan Kaggle (data bersih di data/ boleh di-commit jika lisensi mengizinkan)
+*.zip
+cleaned_makeup_products.csv
+cleaned_makeup_reviews.csv
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
